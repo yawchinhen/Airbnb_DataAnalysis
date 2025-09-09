@@ -22,10 +22,8 @@ This project explores **Airbnb market dynamics** through a combination of **desc
 - **Descriptive statistics** show consistently high guest satisfaction scores, with rental prices varying widely based on amenities and property types.  
 
 ## 📂 Project Structure  
-- ├── data/ # Raw and cleaned datasets
 - ├── notebooks/ # R scripts and analysis notebooks
 - ├── reports/ # Detailed analysis and results
-- ├── dashboards/ # Power BI files
 - ├── README.md # Project documentation
 
 ## 📈 Deliverables  
